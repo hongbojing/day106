@@ -1,2 +1,2 @@
 # day106
-day106 keep on angular
+day106 keep on angular and angularStrap
